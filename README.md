@@ -1,4 +1,4 @@
-## Capítulo 1 Referências e Materiais Complementares
+## Capítulo 1 - Referências e Materiais Complementares
 
 Este repositório é dedicado ao curso **Microsoft Power BI Para Business Intelligence e Data Science**, da Data Science Academy. Para aprofundar o conteúdo, também são utilizadas as seguintes referências:
 
