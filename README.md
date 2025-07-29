@@ -16,5 +16,8 @@ Cursos relacionados da Data Science Academy para complementar os estudos:
 
 ## Capítulo 2 – Instalando o Power BI
 
+- Baixar o instalador direto do site da Microsoft invés da MS Store:
+PBIDesktopSetup_x64.exe
+
 - Para visualizar as extensões de arquivos no Windows 11:  
 **Explorador de Arquivos → Exibir → Mostrar → Extensões de nomes de arquivos**
